@@ -1,4 +1,4 @@
-# Dự án Dự đoán Xác suất Trúng tuyển vào Trường Cao Đẳng
+# Dự đoán Xác suất Trúng tuyển vào Trường Cao Đẳng
 
 ## Mô tả
 Dự án này triển khai một ứng dụng web sử dụng Streamlit để dự đoán xác suất trúng tuyển của thí sinh vào một trường cao đẳng dựa trên các thông số như điểm GRE, điểm TOEFL, điểm trường đại học, SOP, LOR, CGPA và có kinh nghiệm nghiên cứu hay không.
